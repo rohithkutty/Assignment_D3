@@ -1,0 +1,26 @@
+{
+  "Array1":{
+    "1":"NY.GDP.MKTP.KD",
+    "2":"NY.GNP.MKTP.KD",
+    "3":"2005"
+  },
+
+  "Array2":{
+    "1":"NY.GDP.PCAP.KD",
+    "2":"NY.GNP.PCAP.KD",
+    "3":"2005"
+  },
+
+  "Array3":{
+    "1":"IND",
+    "2":"NY.GDP.MKTP.KD.ZG",
+    "3":"1960",
+    "4":"2015"
+  },
+
+  "Array4":{
+  "1":"NY.GDP.PCAP.KD",
+  "2":"1960",
+  "3":"2015"
+  }
+}
